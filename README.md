@@ -1,2 +1,1 @@
-# TinDog
-Find your dog's soulmate.
+TinDog Starting Files
